@@ -1,1 +1,1 @@
-# Analysing-A-B-Test-result
+# Analysing-AB-Test-result
